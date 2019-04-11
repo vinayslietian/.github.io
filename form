@@ -1,0 +1,23 @@
+<html>
+<body bgcolor="yellow">
+<p align="center" >
+<font size=9 color="Blue"> Welcome To Mehta Group </font><br></p>
+</p>
+<p>
+Kindly fill the form & Register.
+</p>
+
+
+<form>
+Firstname <br>   <input type="text" value="Your First name"><br>
+Lastname <br>     <input type="text" value="Your Last Name"><br>
+Password  <br>   <input type="password"><br>
+Gender <input type ="radio"  name=r1>Male <input type ="radio" name=r1>female <input type ="radio"name=r1>Transgender<br>
+Address<textarea></textarea><br>
+<input type="Submit" value="Register">
+<input type="Reset">
+
+</form>
+
+</body>
+</html>
